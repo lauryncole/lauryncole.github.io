@@ -263,9 +263,6 @@ section.resume-section {
 }
 
 .img-thumbnail {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    height: 5rem;
-    width: 5rem;
+    height: 10rem;
+    width: 10rem;
 }
