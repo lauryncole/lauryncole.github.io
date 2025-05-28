@@ -269,7 +269,7 @@ section.resume-section {
 }
 
 .accordion-header {
-  font-size: 3.5rem;
+  font-size: 3.5rem !important;
 }
 @media (min-width: 1250px) {
   .accordion-header {
