@@ -78,7 +78,7 @@ h6, .h6 {
 
 body {
   margin: 0;
-  font-family: var(--bs-body-font-family);
+  font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: var(--bs-body-font-size);
   font-weight: var(--bs-body-font-weight);
   line-height: var(--bs-body-line-height);
@@ -269,7 +269,7 @@ section.resume-section {
 }
 
 .accordion-header {
-  font-size: calc(1.475rem + 2.7vw);
+  font-size: calc(3rem + 2.7vw);
 }
 @media (min-width: 1200px) {
   .accordion-header {
